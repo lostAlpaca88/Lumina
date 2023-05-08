@@ -168,7 +168,7 @@ header .container .col-md-7 button{
 .cover{
     width: 100%;
     height:70vmin;
-    background: url('../asset/sky_512.webp');
+    background: url('./sky_512.webp');
     background-position: -24rem -19rem;
     background-size: 150%;
     position: relative;
